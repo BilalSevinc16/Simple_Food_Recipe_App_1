@@ -1,16 +1,9 @@
-# simple_food_recipe_app_v1
+# Simple Food Recipe App 1
 
-A new Flutter project.
+Simple Food Recipe App 1
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Food_Recipe_App_1/assets/146417248/4e6b1e2f-e9dd-4b57-9dbb-b0f51e2264e7)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Food_Recipe_App_1/assets/146417248/aa7e84bd-1142-45a7-891b-91758fecc7f9)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_Food_Recipe_App_1/assets/146417248/2b171834-40d3-4d81-81d3-febe78720819)
