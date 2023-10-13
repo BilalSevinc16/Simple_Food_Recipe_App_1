@@ -1,6 +1,6 @@
-# Simple Food Recipe App 1
+# Simple Food Recipe App UI 1
 
-Simple Food Recipe App 1
+Simple Food Recipe App UI 1
 
 ![1](https://github.com/BilalSevinc16/Simple_Food_Recipe_App_1/assets/146417248/4e6b1e2f-e9dd-4b57-9dbb-b0f51e2264e7)
 
